@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180881073959",
+    "project_id": "opsc6311poe-db6b9",
+    "storage_bucket": "opsc6311poe-db6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180881073959:android:38172755b5b54db1b3eb02",
+        "android_client_info": {
+          "package_name": "com.example.opsc6311_poe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180881073959-u4mgk51pk91kv2qvgkr7htr62l1u6q6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXBDEYP9q33lzEBv5lURe7IEWgixJPZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180881073959-u4mgk51pk91kv2qvgkr7htr62l1u6q6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
